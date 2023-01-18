@@ -11,4 +11,4 @@ I afegeixo aquí més coses, ala
 
 # Modificació Persona 2
 
-Hola sóc el 2!
+Hola sóc el 2! <--- I ara edito aquí sota de nou
