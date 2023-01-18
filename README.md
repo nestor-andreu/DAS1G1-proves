@@ -1,6 +1,6 @@
 # Proves de GIT
 
-Això és una prova de GIT
+Això és una prova de GIT <--- Jo sóc l'1 editant per dalt
 
 # DAS1G1-proves
 Proves DAS1G1
